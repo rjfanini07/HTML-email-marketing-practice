@@ -10,14 +10,13 @@
         * {
             margin: 0;
             padding: 0;
-            boarder: 0;
+            border: 0;
         
         }
 
         body {
             font-family: "open sans"; sans serif;
             font-size: 20px;
-            font-color: white;
             max-width: 800px;
             margin: 0 auto;
             padding: 10%;
@@ -85,7 +84,7 @@
                 </div>    
                 <a href="REVIEWS">REVIEWS</a>  | <a href="CARE">CARE</a>  | <a href="FAQ">FAQ</a>
                 <div>
-                    Everday Boot Co.
+                    Everyday Boot Co.
                 </div>
             <div>
                 <a href="http://https://manage.kmail-lists.com/subscriptions/unsubscribe?a=a9Hfnx&c=01HEPMEV03162SP3VJEN8182MD&k=f9f424ca46bca4194c37d6b4057d3f91&g=EzcB5X&m=VQvaeT&r=5TeiXnP"> Unsubscribe</a>
