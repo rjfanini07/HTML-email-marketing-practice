@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+        @import url(https://boxicons.com/?query=instagram);
+        * {
+            margin: 0;
+            padding: 0;
+            boarder: 0;
+        
+        }
+
+        body {
+            font-family: "open sans"; sans serif;
+            font-size: 20px;
+            font-color: white;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 10%;
+        }
+
+        img {
+            max-width: 100%;
+        }
+
+        footer {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0;
+        }
+        .footer-text {
+            display: flexbox;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <header>
+            <div>
+                <img src="images/header.jpg" alt="header">
+            </div>
+            <div>
+                <img src="images/boot1.jpg" alt="boot1">
+            </div>  
+        </header>
+            <div>
+                <img src="images/about1.jpg" alt="about">
+            </div>
+            <div>
+                <img src="images/detail1.jpg" alt="detail1">
+            </div>            
+            <div>
+                <img src="images/detail-2.jpg" alt="detail-2">
+            </div>            
+            <div>
+                <img src="images/detail-3.jpg" alt="detail-3">
+            </div>            
+            <div>
+                <img src="images/detail-4.jpg" alt="detail-4">
+            </div>            
+            <div>
+                <img src="images/boot2.jpg" alt="boot2">
+            </div>            
+            <div>
+                <img src="images/shop1.jpg" alt="shop1">
+            </div>            
+            <div>
+                <a href="https://thursdayboots.com/collections/womens-boots?variation=A&utm_source=Klaviyo&utm_medium=flow&_kx=F_zWdSalqEPOQIsp0904brULlvp4iSpHFReqtWRp_WM%3D.a9Hfnx">
+                <img src="images/shop2.jpg" alt="shop2"></a>
+            </div>            
+            <div>
+                <a href="https://thursdayboots.com/collections/boots?variation=A&utm_source=Klaviyo&utm_medium=flow&_kx=F_zWdSalqEPOQIsp0904brULlvp4iSpHFReqtWRp_WM%3D.a9Hfnx"><img src="images/about2.jpg" alt="about2"></a>
+            </div>
+        <footer>
+            <div class="footer-text">
+                <div>
+                <img src="images/1x/fb.png" alt="facebook">
+                <img src="images/1x/ig.png" alt="instagram">
+                <img src="images/1x/twitter.png" alt="X">
+                </div>    
+                <a href="REVIEWS">REVIEWS</a>  | <a href="CARE">CARE</a>  | <a href="FAQ">FAQ</a>
+                <div>
+                    Everday Boot Co.
+                </div>
+            <div>
+                <a href="http://https://manage.kmail-lists.com/subscriptions/unsubscribe?a=a9Hfnx&c=01HEPMEV03162SP3VJEN8182MD&k=f9f424ca46bca4194c37d6b4057d3f91&g=EzcB5X&m=VQvaeT&r=5TeiXnP"> Unsubscribe</a>
+            </div>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>
